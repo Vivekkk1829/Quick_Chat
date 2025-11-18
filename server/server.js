@@ -156,6 +156,10 @@ app.use("/api/status", (req, res)=> res.send("Server is live - v3.2 - Vercel-opt
 app.use("/api/auth", userRouter);
 app.use("/api/messages", messageRouter)
 
+app.get('/',(req,res)=>{
+    res.send("I love you")
+})
+
 
 // Connect to MongoDB
 await connectDB();
