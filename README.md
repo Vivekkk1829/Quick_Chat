@@ -19,7 +19,6 @@ It focuses on scalability, clean architecture, and real-time communication betwe
 - 🔐 User authentication
 - 💬 One-to-one real-time messaging
 - 🟢 Online / Offline user presence
-- ✍️ Typing indicators
 - ⚡ Real-time updates using Socket.IO
 - 🌐 REST APIs for users & messages
 - 🎨 Modern frontend with React + Vite
