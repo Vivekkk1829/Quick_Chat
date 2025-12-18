@@ -7,8 +7,6 @@ The application supports instant messaging with real-time updates, online user p
 ---
 
 
----
-
 ## 🧾 Overview
 
 This project demonstrates a production-ready real-time chat system using **WebSockets (Socket.IO)** along with RESTful APIs.  
@@ -59,8 +57,6 @@ It focuses on scalability, clean architecture, and real-time communication betwe
 ---
 
 
----
-
 ## ⚙️ Environment Variables
 
 ### Backend (`server/.env`)
@@ -77,7 +73,6 @@ JWT_SECRET=your_jwt_secret
 VITE_BACKEND_URL=http://localhost:5000
 ```
 
----
 
 ## ▶️ Installation & Setup
 
@@ -116,10 +111,6 @@ http://localhost:5173
 
 
 
----
-
-
----
 
 
 
